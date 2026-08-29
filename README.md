@@ -9,7 +9,7 @@ performance using SQL.
 
 The project demonstrates SQL skills commonly required for Data Analyst
 roles, including data aggregation, joins, subqueries, Common Table
-Expressions (CTEs), and Window Functions.
+Expressions (CTEs), and Window Functions and then the project combines **SQL analysis** with **Excel data analysis and dashboarding**..
 
 ------------------------------------------------------------------------
 
@@ -17,6 +17,8 @@ Expressions (CTEs), and Window Functions.
 
 -   Microsoft SQL Server
 -   SQL Server Management Studio (SSMS)
+-   Microsoft Excel
+-   PivotTables & Charts
 
 ## 📂 Dataset
 
@@ -88,6 +90,34 @@ Sellers
 -   Watches & Gifts ranked second in revenue.
 -   Bed, Bath & Table sold the highest number of items.
 -   Top sellers contributed a significant share of total revenue.
+-   ## 📈 Excel Dashboard
+
+The dashboard provides an overview of:
+
+- Total Orders
+- Delivered Orders
+- Total Payment Value
+- Payment Transactions
+- Orders by Year
+- Delivery Status
+- Revenue by Payment Method
+- Top 10 Product Categories
+- Average Product Weight by Category
+
+![Olist E-Commerce Dashboard](olist_dashboard.png)
+
+## 🔍 Key Analysis
+
+The project analyzes:
+
+- Order status and delivery performance
+- Yearly order trends
+- Payment methods and revenue
+- Product category performance
+- Product weights
+- Customer and seller information
+- Business performance using SQL queries
+
 
 ## 🎯 Skills Demonstrated
 
@@ -96,11 +126,16 @@ Sellers
 -   Window Functions
 -   CTEs and Subqueries
 -   Analytical Thinking
+-   excel
+-   dashboard
+
+## 🎯 Project Goal
+
+The goal of this project is to use **SQL and Excel** to transform raw e-commerce data into meaningful business insights and a clear management dashboard.
 
 ## 🚀 Future Improvements
 
 -   Build Power BI dashboards
--   Perform analysis in Excel
 -   Publish on GitHub
 
 ## 👨‍💻 Author
