@@ -104,7 +104,7 @@ The dashboard provides an overview of:
 - Top 10 Product Categories
 - Average Product Weight by Category
 
-![Olist E-Commerce Dashboard](olist_dashboard.png)
+![Olist E-Commerce Dashboard](Olist_Dashboard.png)
 
 ## 🔍 Key Analysis
 
